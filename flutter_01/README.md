@@ -1,1 +1,1 @@
-flutter 연습
+flutter UI 연습
