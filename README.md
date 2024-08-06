@@ -1,2 +1,1 @@
-Flutter
-UI 작성 연습
+Flutter 작성 연습
